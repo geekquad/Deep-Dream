@@ -19,3 +19,6 @@ using backpropogation to minimize a defined loss function between our target and
 Not training it to produce a specific output. </p>
 <img src="https://raw.githubusercontent.com/geekquad/deep-learning-v2-pytorch/master/style-transfer/notebook_ims/vgg19_convlayers.png">
 <p> The above image shows the various layers of the model VGG-19. </p>
+<p> <h2> Some of the Images that i played with: </h2> </p>
+<img src="https://drive.google.com/uc?id=16p1AvIuFERLoGoaDAN3YOctL_03vVoTL">
+<img src="https://drive.google.com/uc?id=1agLnlaOIKpAg3YG9hMnqEn6cMdDnfrLA">
